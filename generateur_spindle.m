@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Ce script permet de générer un spindle
-%
+% TEST AJOUT DE CHOSES POUR GITHUB
 % Auteur: Jean-Simon Boucher
 % Date: Octobre 2015
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -10,7 +10,7 @@ function [spindle] = generateur_spindle(freq_up, freq_down, fs, facteur)
 %Test JML%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % t=0:1/600:8;
 % t = t(300:300+4095);
-% t1 = 2.5; 
+% t1 = 2.7; 
 % s1 = 0.25^2; 
 % g1 = exp(-0.5*(t-t1).^2/s1); 
 % f1 = 15; 
